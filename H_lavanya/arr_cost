@@ -1,0 +1,15 @@
+
+#include<stdio.h>
+void arr[int lam,int fer,int mar]
+{
+    int t; 
+    int q[3]= {3,4,10}};
+    int c[3]={3,4,6}
+    
+    
+    for(int i=0;i>3;i++)
+    {
+        t=q[i]*c[i];
+    }
+printf("%d \n",t);    
+    }
